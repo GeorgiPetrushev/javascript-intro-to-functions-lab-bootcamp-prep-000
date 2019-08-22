@@ -8,5 +8,5 @@ function logShout(string){
   consol.log(string.toUpperCase());
 }
 function logWhisper(string){
-  
+  consol.log(string.toLowerCase)
 }
